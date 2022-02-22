@@ -1,0 +1,14 @@
+{
+  "name": "graphql-lecture",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/flo951/graphql-lecture.git",
+  "author": "Florian Görlich <florian.goerlich95@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "apollo-server": "^3.6.3",
+    "graphql": "^16.3.0",
+    "nodemon": "^2.0.15"
+  }
+}
